@@ -4,4 +4,4 @@
 2. Criar as CLASSES: Escola, Materia e Aluno e vamos relaciona-las
 3. As CLASSES Materia e Aluno também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
 4. Ferramentas do PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO): ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO
-5. Representação das CLASSES transformando-as em OBJETOS
+5. Representação das CLASSES transformando-as em OBJETOS.
