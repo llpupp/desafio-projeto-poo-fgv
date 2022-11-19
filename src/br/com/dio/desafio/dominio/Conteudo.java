@@ -4,6 +4,7 @@ public abstract class Conteudo {
 
     protected static final double PESO_PADRAO = 0.333d;
 
+
     private String titulo;
     private String descricao;
 
