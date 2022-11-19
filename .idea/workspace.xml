@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3828af43-8697-4169-9446-b082f7ad40b7" name="Changes" comment="FIRST COMMIT" />
+    <list default="true" id="3828af43-8697-4169-9446-b082f7ad40b7" name="Changes" comment="Conteúdo">
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Aluno.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/dev/projetos/desafio-FGV/desafio-projeto-poo-fgv"
   }
 }]]></component>
@@ -71,7 +72,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668858146700</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Main">
+      <created>1668858228527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668858228527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Materia do curso">
+      <created>1668858328720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668858328720</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Escola CEAG">
+      <created>1668858385885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668858385885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Conteúdo">
+      <created>1668858445545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668858445545</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +116,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FIRST COMMIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIRST COMMIT" />
+    <MESSAGE value="Main" />
+    <MESSAGE value="Materia do curso" />
+    <MESSAGE value="Escola CEAG" />
+    <MESSAGE value="Conteúdo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conteúdo" />
   </component>
 </project>
