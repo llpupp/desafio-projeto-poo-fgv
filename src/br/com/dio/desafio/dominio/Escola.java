@@ -6,6 +6,7 @@ import java.util.LinkedHashSet;
 import java.util.Objects;
 import java.util.Set;
 
+
 public class Escola {
     private String nome;
     private String descricao;
