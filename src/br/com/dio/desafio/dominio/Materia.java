@@ -12,7 +12,6 @@ public class Materia extends Conteudo{
     public Materia() {
     }
 
-
     public int getNotaProva() {
         return notaProva;
     }
