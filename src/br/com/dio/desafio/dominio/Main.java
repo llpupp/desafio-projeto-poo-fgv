@@ -60,6 +60,5 @@ public class Main {
 
         System.out.println("Conteúdos Concluidos Ana:" + alunoAna.getConteudosConcluidos());
         System.out.println("NOTA FINAL PRIMEIRO BIMESTRE:" + alunoAna.calcularTotalNOTA());
-
     }
 }
